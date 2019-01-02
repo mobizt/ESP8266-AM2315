@@ -5,7 +5,7 @@
   WEMOS D1 Mini          AM2315                  Supply
   ---------------------------------------------------------------------------------
   D2 (Data)              Yelloow (SDA)           4.7 k Pull-Up Resistor
-  D1 (Clock)             White (Slave Out)       4.7 k Pull-Up Resistor
+  D1 (Clock)             White (SCL)             4.7 k Pull-Up Resistor
                          Red (VDD)               +3.3
   GND                    Black (GND)             GND
 
