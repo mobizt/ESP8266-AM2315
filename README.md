@@ -1,5 +1,5 @@
 # AM2315 Digital Temperature and Humidity Sensor I2C Arduino Library
-SPI Static RAM Library for Arduino
+AM2315 I2C Library for Arduino
 
 ## Test Devices
 Aosong AM2315
