@@ -44,8 +44,11 @@ void loop() {
     Serial.println(am2315.temperature());
     Serial.println();
 
+  }else{
+    Serial.println("Failed!");
+    Serial.println();
   }
 
 
-  delay(1000);
+  delay(500);
 }
