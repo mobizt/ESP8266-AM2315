@@ -35,7 +35,7 @@ Temp_Humid_AM2315::Temp_Humid_AM2315() {}
 
 boolean Temp_Humid_AM2315::begin(uint8_t dataPin, uint8_t clockPin) {
 
-  Wire.setClock(400000L);
+  Wire.setClock(400000L); //fix rate to 400 kbps
   Wire.begin(dataPin, clockPin);
   acquireData();
   return dataReady;
