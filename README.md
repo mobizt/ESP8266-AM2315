@@ -26,7 +26,7 @@ float humidity(void);
   ---------------------------------------------------------------------------------
   D2 (Data)              Yelloow (SDA)           4.7 k Pull-Up Resistor
   D1 (Clock)             White (Slave Out)       4.7 k Pull-Up Resistor
-                         red (VDD)               +3.3
+                         Red (VDD)               +3.3
   GND                    Black (GND)             GND
 
 */
