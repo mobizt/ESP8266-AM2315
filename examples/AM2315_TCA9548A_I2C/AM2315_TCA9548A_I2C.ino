@@ -2,7 +2,7 @@
   Test setup for WEMOS D1 Mini (ESP8266), two TCA9548As (8-Channel I2C Switch Module) and  AM2315
 
   --------------------------------------------------------------------------------------------------------
-  WEMOS D1 Mini          TCA9548A         AM2315#1              AM2315#2            Supply
+  WEMOS D1 Mini          TCA9548A         AM2315#1            AM2315#2              Supply
   --------------------------------------------------------------------------------------------------------
   D2 (SDA)               SDA                                                        4.7 k Pull-Up Resistor
   D1 (SCL)               SCL                                                        4.7 k Pull-Up Resistor
