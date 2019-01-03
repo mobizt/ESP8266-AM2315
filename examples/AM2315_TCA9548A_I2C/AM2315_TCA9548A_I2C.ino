@@ -96,7 +96,7 @@ void loop() {
     Serial.println();
 
   } else {
-    Serial.println("Sespr 1 Failed!");
+    Serial.println("Sesor 1 Failed!");
     Serial.println();
   }
 
