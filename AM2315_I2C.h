@@ -42,7 +42,7 @@
 typedef union {
   byte byteData [2];
   uint16_t uint16Data;
-} dataUnion;
+} AM2315_I2C_dataUnion;
 
 
 class AM2315_I2C {
@@ -56,7 +56,7 @@ class AM2315_I2C {
 
   private:
     float _humid, _temp;
-    dataUnion _dataUnion;
+    AM2315_I2C_dataUnion _dataUnion;
 };
 
 #endif
