@@ -1,4 +1,4 @@
-# AM2315 Digital Temperature and Humidity Sensor I2C Arduino Library
+# AM2315 Digital Temp & Humid Sensor Arduino Library for ESP8266
 AM2315 I2C Library for Arduino
 
 ## Test Devices
